@@ -1,6 +1,6 @@
 Build a roller coaster track using Catmull-Rom Splines.
 
-Implemented a camera system to follow the roller coaster as if users are riding it.
+Implement a camera system to follow the roller coaster as if users are riding it.
 
 The velocity of the camera follows the physics law.
 
