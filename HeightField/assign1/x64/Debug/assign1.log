@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  assign1.cpp
+c:\users\markk\desktop\computergraphics\fall22_assignment1\fall22_assignment1\assign1_startercode_windowsvs2017\assign1\assign1\assign1.cpp(50): warning C4101: 'j': 未參考的區域變數
+assign1.obj : error LNK2019: 無法解析的外部符號 __imp___glutInitWithExit 在函式 glutInit_ATEXIT_HACK 中被參考
+assign1.obj : error LNK2019: 無法解析的外部符號 __imp_glutMainLoop 在函式 main 中被參考
+assign1.obj : error LNK2019: 無法解析的外部符號 __imp_glutPostRedisplay 在函式 "void __cdecl doIdle(void)" (?doIdle@@YAXXZ) 中被參考
+assign1.obj : error LNK2019: 無法解析的外部符號 __imp___glutCreateMenuWithExit 在函式 glutCreateMenu_ATEXIT_HACK 中被參考
+assign1.obj : error LNK2019: 無法解析的外部符號 __imp_glutSetMenu 在函式 main 中被參考
+assign1.obj : error LNK2019: 無法解析的外部符號 __imp_glutAddMenuEntry 在函式 main 中被參考
+assign1.obj : error LNK2019: 無法解析的外部符號 __imp_glutAttachMenu 在函式 main 中被參考
+assign1.obj : error LNK2019: 無法解析的外部符號 __imp_glutDisplayFunc 在函式 main 中被參考
+assign1.obj : error LNK2019: 無法解析的外部符號 __imp_glutMouseFunc 在函式 main 中被參考
+assign1.obj : error LNK2019: 無法解析的外部符號 __imp_glutMotionFunc 在函式 main 中被參考
+assign1.obj : error LNK2019: 無法解析的外部符號 __imp_glutPassiveMotionFunc 在函式 main 中被參考
+assign1.obj : error LNK2019: 無法解析的外部符號 __imp_glutIdleFunc 在函式 main 中被參考
+assign1.obj : error LNK2019: 無法解析的外部符號 __imp_glutGetModifiers 在函式 "void __cdecl mousebutton(int,int,int,int)" (?mousebutton@@YAXHHHH@Z) 中被參考
+picLibrary\libjpeg.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+picLibrary\libtiff.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+glut-3.7.6-bin\glut32.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+C:\Users\markk\Desktop\ComputerGraphics\Fall22_assignment1\Fall22_assignment1\assign1_starterCode_windowsVS2017\assign1\x64\Debug\assign1.exe : fatal error LNK1120: 13 個無法解析的外部符號

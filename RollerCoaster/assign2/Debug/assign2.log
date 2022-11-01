@@ -1,0 +1,14 @@
+﻿  assign2.cpp
+C:\Users\markk\Desktop\ComputerGraphics\assign2_starterCode_windowsVS2017\assign2_starterCode_windowsVS2017\assign2\assign2\assign2.cpp(80,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(213): message : 請參閱 'fopen' 的宣告
+C:\Users\markk\Desktop\ComputerGraphics\assign2_starterCode_windowsVS2017\assign2_starterCode_windowsVS2017\assign2\assign2\assign2.cpp(86,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1199): message : 請參閱 'fscanf' 的宣告
+C:\Users\markk\Desktop\ComputerGraphics\assign2_starterCode_windowsVS2017\assign2_starterCode_windowsVS2017\assign2\assign2\assign2.cpp(92,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1199): message : 請參閱 'fscanf' 的宣告
+C:\Users\markk\Desktop\ComputerGraphics\assign2_starterCode_windowsVS2017\assign2_starterCode_windowsVS2017\assign2\assign2\assign2.cpp(94,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(213): message : 請參閱 'fopen' 的宣告
+C:\Users\markk\Desktop\ComputerGraphics\assign2_starterCode_windowsVS2017\assign2_starterCode_windowsVS2017\assign2\assign2\assign2.cpp(102,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1199): message : 請參閱 'fscanf' 的宣告
+C:\Users\markk\Desktop\ComputerGraphics\assign2_starterCode_windowsVS2017\assign2_starterCode_windowsVS2017\assign2\assign2\assign2.cpp(108,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1199): message : 請參閱 'fscanf' 的宣告
+  assign2.vcxproj -> C:\Users\markk\Desktop\ComputerGraphics\assign2_starterCode_windowsVS2017\assign2_starterCode_windowsVS2017\assign2\Debug\assign2.exe
